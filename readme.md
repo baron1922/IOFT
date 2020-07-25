@@ -34,7 +34,7 @@ This leaves one output pin and three input pins.
 
 ## Schematic
 
-
+TO DO - take photo of my notes.
 
 ## Usage
 
