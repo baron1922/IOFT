@@ -38,7 +38,8 @@ TO DO - take photo of my notes.
 
 ## Usage
 
-The output pins can power a small LED but not much more. 
+The output pins can power a small LED but that's about it. 
+
 Format: ![Alt Text](images/led-red.jpg)
 
 ---
