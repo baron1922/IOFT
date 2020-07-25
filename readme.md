@@ -1,6 +1,8 @@
 # Internet of Four Things
 
-Converting a serial port into three digital outputs and one digital inputs.
+How to convert a serial port into three digital outputs and one digital inputs.
+
+I wrote this guide because the original sources that I previously used have disappeared. 
 
 ## First get your serial port
 
