@@ -41,6 +41,8 @@ This leaves one output pin and three input pins.
 The output pins can power a small LED but not much more. 
 Format: ![Alt Text](images/led-red.jpg)
 
+---
+
 <a name="de9Footnote1">1</a>: The DE9 is often incorrectly called DB9. 
 
 ![D sub miniature connectors](images/DSubminiatures.svg)
