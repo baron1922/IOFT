@@ -7,3 +7,12 @@ Older desktops may still have a DB9 serial port, but recent
 My first pages on GitHub
 
 I love :coffee:, :pizza:, and :beer:.
+
+hello
+
+![RS232 DB9 pinouts](images/modemstraightdb9.gif)
+
+Format: ![Alt Text](images/led-red.jpg)
+
+Goodbye
+
